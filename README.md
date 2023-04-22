@@ -48,6 +48,7 @@ The goal is to make a NES/Atari emulator playable game since they are 8-bit
         1. game menu
         1. game over screen
 1. Structure elements
+
         // Structure Elements
         typedef enum { false, true } bool;
 
